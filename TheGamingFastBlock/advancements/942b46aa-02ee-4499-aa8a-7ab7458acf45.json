@@ -2194,45 +2194,9 @@
     },
     "done": true
   },
-  "apothic_enchanting:max_stats": {
-    "criteria": {
-      "enchanted_item": "2026-06-14 23:44:51 +0200"
-    },
-    "done": true
-  },
   "apothic_enchanting:80ench": {
     "criteria": {
       "enchanted_item": "2026-06-14 22:17:35 +0200"
-    },
-    "done": true
-  },
-  "apothic_enchanting:max_rectified": {
-    "criteria": {
-      "enchanted_item": "2026-06-14 23:44:51 +0200"
-    },
-    "done": true
-  },
-  "create:arm_blaze_burner": {
-    "criteria": {
-      "0": "2026-06-15 02:59:55 +0200"
-    },
-    "done": true
-  },
-  "apothic_enchanting:endshelf": {
-    "criteria": {
-      "endshelf": "2026-06-14 22:38:53 +0200"
-    },
-    "done": true
-  },
-  "apotheosis:gateways/frontier": {
-    "criteria": {
-      "complete_frontier_gate": "2026-06-15 00:21:14 +0200"
-    },
-    "done": true
-  },
-  "apothic_enchanting:quanta100": {
-    "criteria": {
-      "enchanted_item": "2026-06-14 23:44:51 +0200"
     },
     "done": true
   },
@@ -2243,9 +2207,33 @@
     },
     "done": true
   },
+  "apothic_enchanting:endshelf": {
+    "criteria": {
+      "endshelf": "2026-06-14 22:38:53 +0200"
+    },
+    "done": true
+  },
   "apothic_enchanting:upgrade_endshelf": {
     "criteria": {
       "draconic": "2026-06-14 22:41:01 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_stats": {
+    "criteria": {
+      "enchanted_item": "2026-06-14 23:44:51 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_rectified": {
+    "criteria": {
+      "enchanted_item": "2026-06-14 23:44:51 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2026-06-14 23:44:51 +0200"
     },
     "done": true
   },
@@ -2255,9 +2243,21 @@
     },
     "done": true
   },
+  "apotheosis:gateways/frontier": {
+    "criteria": {
+      "complete_frontier_gate": "2026-06-15 00:21:14 +0200"
+    },
+    "done": true
+  },
   "integratedtunnels:interfaces/interface_fluid": {
     "criteria": {
       "criteria_0": "2026-06-15 02:23:59 +0200"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2026-06-15 02:59:55 +0200"
     },
     "done": true
   },
