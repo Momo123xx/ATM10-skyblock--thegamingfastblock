@@ -2,9 +2,7 @@
 	id: "2121cc6d-1166-4e58-afab-5a025f67fc71"
 	type: "player"
 	player_name: "Zer0Ace"
-	ranks: {
-		2121cc6d-1166-4e58-afab-5a025f67fc71: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Zer0Ace"
 		"ftbteams:description": ""

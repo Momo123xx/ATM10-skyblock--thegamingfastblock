@@ -2,9 +2,7 @@
 	id: "942b46aa-02ee-4499-aa8a-7ab7458acf45"
 	type: "player"
 	player_name: "Srerp"
-	ranks: {
-		942b46aa-02ee-4499-aa8a-7ab7458acf45: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Srerp"
 		"ftbteams:description": ""
