@@ -149,6 +149,7 @@
       "minecraft:mangrove_swamp": "2026-06-14 02:14:20 +0200",
       "minecraft:deep_dark": "2026-06-11 02:13:04 +0200",
       "minecraft:river": "2026-06-11 01:08:24 +0200",
+      "minecraft:swamp": "2026-06-15 23:00:50 +0200",
       "minecraft:windswept_savanna": "2026-06-09 21:09:16 +0200",
       "minecraft:plains": "2026-06-10 22:55:14 +0200"
     },
@@ -2258,6 +2259,60 @@
   "create:arm_blaze_burner": {
     "criteria": {
       "0": "2026-06-15 02:59:55 +0200"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2026-06-15 12:56:46 +0200"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2026-06-15 13:03:28 +0200"
+    },
+    "done": true
+  },
+  "create:arm_many_targets": {
+    "criteria": {
+      "0": "2026-06-15 13:09:12 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2026-06-15 13:12:05 +0200"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2026-06-15 13:12:08 +0200"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2026-06-15 13:33:36 +0200"
+    },
+    "done": true
+  },
+  "integratedcrafting:autocrafting_setup/craft_crafting_interface": {
+    "criteria": {
+      "criteria_0": "2026-06-15 15:03:44 +0200"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2026-06-16 01:24:47 +0200"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2026-06-16 01:35:05 +0200"
     },
     "done": true
   },

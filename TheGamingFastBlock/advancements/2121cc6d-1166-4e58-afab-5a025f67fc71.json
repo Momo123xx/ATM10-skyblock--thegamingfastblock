@@ -478,6 +478,7 @@
       "bread": "2026-06-10 19:45:59 +0200",
       "golden_apple": "2026-06-11 17:17:52 +0200",
       "glow_berries": "2026-06-11 01:41:17 +0200",
+      "dried_kelp": "2026-06-15 22:29:30 +0200",
       "cooked_beef": "2026-06-09 21:19:07 +0200",
       "baked_potato": "2026-06-09 23:23:13 +0200",
       "golden_carrot": "2026-06-10 00:10:04 +0200",
@@ -1785,15 +1786,57 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-06-15 01:32:45 +0200"
+    },
+    "done": true
+  },
   "create:glass_pipe": {
     "criteria": {
       "0": "2026-06-15 01:34:46 +0200"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "supplementaries:recipe/buntings/bunting_black": {
     "criteria": {
-      "obsidian": "2026-06-15 01:32:45 +0200"
+      "has_tag_c_dyes_black_2": "2026-06-15 20:46:27 +0200"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2026-06-16 00:10:20 +0200"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2026-06-16 01:02:15 +0200"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2026-06-15 22:36:12 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-06-15 20:46:27 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "has_tag_c_dyes_black_1": "2026-06-15 20:46:27 +0200"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2026-06-16 00:45:30 +0200"
     },
     "done": true
   },

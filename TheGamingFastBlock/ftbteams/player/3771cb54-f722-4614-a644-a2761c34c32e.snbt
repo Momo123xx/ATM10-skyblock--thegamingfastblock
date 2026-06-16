@@ -2,7 +2,9 @@
 	id: "3771cb54-f722-4614-a644-a2761c34c32e"
 	type: "player"
 	player_name: "_InfernalComet_"
-	ranks: { }
+	ranks: {
+		3771cb54-f722-4614-a644-a2761c34c32e: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "_InfernalComet_"
 		"ftbteams:description": ""
