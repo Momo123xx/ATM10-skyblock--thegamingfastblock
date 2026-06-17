@@ -477,6 +477,7 @@
       "apple": "2026-06-09 22:03:40 +0200",
       "bread": "2026-06-10 19:45:59 +0200",
       "golden_apple": "2026-06-11 17:17:52 +0200",
+      "potato": "2026-06-16 13:46:45 +0200",
       "glow_berries": "2026-06-11 01:41:17 +0200",
       "dried_kelp": "2026-06-15 22:29:30 +0200",
       "cooked_beef": "2026-06-09 21:19:07 +0200",
@@ -761,7 +762,8 @@
       "minecraft:spider": "2026-06-10 21:11:42 +0200",
       "minecraft:wither_skeleton": "2026-06-10 17:53:06 +0200",
       "minecraft:zombie": "2026-06-10 17:45:34 +0200",
-      "minecraft:creeper": "2026-06-10 21:10:26 +0200"
+      "minecraft:creeper": "2026-06-10 21:10:26 +0200",
+      "minecraft:slime": "2026-06-16 15:04:13 +0200"
     },
     "done": false
   },
@@ -1804,24 +1806,6 @@
     },
     "done": true
   },
-  "mekanism:basic_control_circuit": {
-    "criteria": {
-      "basic_control_circuit": "2026-06-16 00:10:20 +0200"
-    },
-    "done": true
-  },
-  "mekanism:item_transport": {
-    "criteria": {
-      "basic_logistical_transporter": "2026-06-16 01:02:15 +0200"
-    },
-    "done": true
-  },
-  "mekanism:metallurgic_infuser": {
-    "criteria": {
-      "metallurgic_infuser": "2026-06-15 22:36:12 +0200"
-    },
-    "done": true
-  },
   "supplementaries:recipe/awnings/awning_black": {
     "criteria": {
       "has_tag_c_dyes_black_2": "2026-06-15 20:46:27 +0200"
@@ -1834,9 +1818,75 @@
     },
     "done": true
   },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2026-06-15 22:36:12 +0200"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2026-06-16 00:10:20 +0200"
+    },
+    "done": true
+  },
   "mekanism:configurator": {
     "criteria": {
       "configurator": "2026-06-16 00:45:30 +0200"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2026-06-16 01:02:15 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_hand": "2026-06-16 14:35:28 +0200"
+    },
+    "done": false
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_hand": "2026-06-16 14:35:28 +0200"
+    },
+    "done": false
+  },
+  "integrateddynamics:logic_operations/logic_programming": {
+    "criteria": {
+      "criteria_0": "2026-06-16 15:36:43 +0200"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2026-06-16 16:55:26 +0200"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2026-06-16 17:22:37 +0200"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2026-06-16 18:13:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-06-16 18:13:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-06-16 18:13:20 +0200"
     },
     "done": true
   },

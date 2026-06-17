@@ -803,14 +803,19 @@
       "minecraft:blaze": "2026-06-11 14:03:36 +0200",
       "minecraft:skeleton": "2026-06-09 22:01:12 +0200",
       "minecraft:phantom": "2026-06-09 22:16:24 +0200",
+      "minecraft:witch": "2026-06-11 01:08:32 +0200",
+      "minecraft:wither_skeleton": "2026-06-10 03:17:47 +0200",
+      "minecraft:bogged": "2026-06-16 18:32:27 +0200",
+      "minecraft:shulker": "2026-06-16 18:21:41 +0200",
+      "minecraft:vindicator": "2026-06-16 23:37:07 +0200",
       "minecraft:enderman": "2026-06-11 01:53:46 +0200",
       "minecraft:magma_cube": "2026-06-11 14:05:18 +0200",
-      "minecraft:witch": "2026-06-11 01:08:32 +0200",
       "minecraft:spider": "2026-06-10 03:14:42 +0200",
-      "minecraft:wither_skeleton": "2026-06-10 03:17:47 +0200",
       "minecraft:zombie": "2026-06-09 21:56:41 +0200",
       "minecraft:creeper": "2026-06-09 21:54:08 +0200",
-      "minecraft:drowned": "2026-06-12 16:17:57 +0200"
+      "minecraft:drowned": "2026-06-12 16:17:57 +0200",
+      "minecraft:zombie_villager": "2026-06-16 13:11:17 +0200",
+      "minecraft:slime": "2026-06-16 15:31:31 +0200"
     },
     "done": false
   },
@@ -1563,7 +1568,10 @@
   "apotheosis:progression/summit": {
     "criteria": {
       "rare_hand": "2026-06-11 01:54:41 +0200",
-      "rare_helm": "2026-06-14 23:51:54 +0200"
+      "rare_chest": "2026-06-16 13:24:12 +0200",
+      "rare_legs": "2026-06-16 17:33:50 +0200",
+      "rare_helm": "2026-06-14 23:51:54 +0200",
+      "rare_feet": "2026-06-16 18:34:12 +0200"
     },
     "done": false
   },
@@ -1571,11 +1579,12 @@
     "criteria": {
       "uncommon_legs": "2026-06-11 02:17:33 +0200",
       "uncommon_chest": "2026-06-13 22:50:40 +0200",
+      "kill_apothic_invader": "2026-06-16 13:23:59 +0200",
       "uncommon_hand": "2026-06-11 01:54:41 +0200",
       "uncommon_helm": "2026-06-14 00:38:56 +0200",
       "uncommon_feet": "2026-06-13 22:54:06 +0200"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipe/integration/pancake_fd": {
     "criteria": {
@@ -2313,6 +2322,227 @@
   "mekanism:infused_alloy": {
     "criteria": {
       "alloy_infused": "2026-06-16 01:35:05 +0200"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2026-06-16 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2026-06-16 14:05:31 +0200"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2026-06-16 14:11:32 +0200"
+    },
+    "done": true
+  },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2026-06-16 14:44:56 +0200"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2026-06-16 14:45:01 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:gateways/ascent": {
+    "criteria": {
+      "complete_ascent_gate": "2026-06-16 16:50:56 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_hand": "2026-06-16 16:51:17 +0200"
+    },
+    "done": false
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2026-06-16 17:09:57 +0200"
+    },
+    "done": true
+  },
+  "create:cardboard": {
+    "criteria": {
+      "0": "2026-06-16 17:11:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/present_2": {
+    "criteria": {
+      "has_item_create_cardboard_1": "2026-06-16 17:11:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/item_lore": {
+    "criteria": {
+      "has_item_minecraft_name_tag_1": "2026-06-16 17:12:00 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/lumisene_mixing": {
+    "criteria": {
+      "has_item_minecraft_glow_berries_1": "2026-06-16 17:30:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:blueprint_paper": {
+    "criteria": {
+      "get_item": "2026-06-16 17:45:51 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ore": "2026-06-16 17:54:25 +0200",
+      "get_ingot": "2026-06-16 17:53:31 +0200"
+    },
+    "done": true
+  },
+  "silentgear:salvager": {
+    "criteria": {
+      "get_item": "2026-06-16 17:53:54 +0200"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2026-06-16 17:55:52 +0200"
+    },
+    "done": true
+  },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_catalyst": "2026-06-16 17:59:29 +0200",
+      "get_grader": "2026-06-16 17:57:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-06-16 18:06:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-06-16 18:21:37 +0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ingot": "2026-06-16 18:39:52 +0200"
+    },
+    "done": false
+  },
+  "silentgear:azure_electrum": {
+    "criteria": {
+      "get_ingot": "2026-06-16 18:43:07 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2026-06-17 00:42:38 +0200"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2026-06-16 23:24:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2026-06-16 23:11:01 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2026-06-16 23:24:36 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2026-06-17 01:32:21 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2026-06-17 03:04:24 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/ioport": {
+    "criteria": {
+      "certus": "2026-06-17 03:08:30 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2026-06-17 01:14:45 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2026-06-17 02:52:54 +0200"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2026-06-16 23:24:39 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2026-06-16 22:49:57 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/globe_sepia": {
+    "criteria": {
+      "has_item_supplementaries_globe_1": "2026-06-16 22:46:31 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2026-06-17 03:11:51 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2026-06-17 01:33:38 +0200",
+      "silicon": "2026-06-17 01:24:59 +0200",
+      "engineering": "2026-06-17 01:27:27 +0200",
+      "logic": "2026-06-17 01:16:52 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2026-06-17 01:32:32 +0200"
     },
     "done": true
   },
