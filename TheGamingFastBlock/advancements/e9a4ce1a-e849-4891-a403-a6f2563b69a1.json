@@ -1249,33 +1249,9 @@
     },
     "done": true
   },
-  "mekanismtools:paxel": {
-    "criteria": {
-      "any_paxel": "2026-06-16 23:15:41 +0200"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2026-06-16 23:04:43 +0200"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2026-06-17 00:19:39 +0200"
-    },
-    "done": true
-  },
   "supplementaries:recipe/candy": {
     "criteria": {
       "has_item_minecraft_paper_2": "2026-06-16 22:57:16 +0200"
-    },
-    "done": true
-  },
-  "pneumaticcraft:pressure_tube": {
-    "criteria": {
-      "0": "2026-06-16 23:57:43 +0200"
     },
     "done": true
   },
@@ -1288,6 +1264,30 @@
   "supplementaries:recipe/trapped_present_2": {
     "criteria": {
       "has_item_minecraft_paper_1": "2026-06-16 22:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-06-16 23:04:43 +0200"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2026-06-16 23:15:41 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2026-06-16 23:57:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-06-17 00:19:39 +0200"
     },
     "done": true
   },

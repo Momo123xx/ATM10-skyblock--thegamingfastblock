@@ -856,9 +856,11 @@
       "minecraft:witch": "2026-06-11 00:53:15 +0200",
       "minecraft:wither_skeleton": "2026-06-10 20:44:36 +0200",
       "minecraft:ravager": "2026-06-11 01:07:49 +0200",
+      "minecraft:husk": "2026-06-17 13:08:58 +0200",
       "minecraft:bogged": "2026-06-15 22:38:43 +0200",
       "minecraft:ender_dragon": "2026-06-11 15:05:27 +0200",
       "minecraft:vindicator": "2026-06-11 01:08:29 +0200",
+      "minecraft:breeze": "2026-06-17 13:09:39 +0200",
       "minecraft:enderman": "2026-06-10 03:01:12 +0200",
       "minecraft:stray": "2026-06-15 00:21:13 +0200",
       "minecraft:magma_cube": "2026-06-11 13:23:30 +0200",
@@ -867,6 +869,7 @@
       "minecraft:zombie": "2026-06-09 21:55:48 +0200",
       "minecraft:creeper": "2026-06-10 03:02:29 +0200",
       "minecraft:drowned": "2026-06-12 16:22:22 +0200",
+      "minecraft:wither": "2026-06-17 12:29:01 +0200",
       "minecraft:zombie_villager": "2026-06-10 23:04:02 +0200",
       "minecraft:evoker": "2026-06-11 01:09:28 +0200"
     },
@@ -1418,6 +1421,7 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
+      "kill_wither": "2026-06-17 12:29:01 +0200",
       "rare_hand": "2026-06-10 21:05:46 +0200"
     },
     "done": false
@@ -1969,6 +1973,120 @@
   "ars_nouveau:basic_spell_turret": {
     "criteria": {
       "has_basic_spell_turret": "2026-06-16 23:06:30 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-06-17 10:54:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2026-06-17 12:28:35 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:gateways/ascent": {
+    "criteria": {
+      "complete_ascent_gate": "2026-06-17 12:35:52 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2026-06-17 14:39:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2026-06-17 14:53:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-06-17 15:31:19 +0200"
+    },
+    "done": true
+  },
+  "nullscape:root": {
+    "criteria": {
+      "nullscape:shadowlands": "2026-06-17 15:31:19 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_stats": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:80ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_rectified": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:100ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2026-06-17 15:35:28 +0200"
     },
     "done": true
   },
