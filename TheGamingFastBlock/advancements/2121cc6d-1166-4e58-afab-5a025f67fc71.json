@@ -764,6 +764,7 @@
       "minecraft:wither_skeleton": "2026-06-10 17:53:06 +0200",
       "minecraft:zombie": "2026-06-10 17:45:34 +0200",
       "minecraft:creeper": "2026-06-10 21:10:26 +0200",
+      "minecraft:zombie_villager": "2026-06-18 21:52:47 +0200",
       "minecraft:slime": "2026-06-16 15:04:13 +0200"
     },
     "done": false
@@ -1845,13 +1846,17 @@
   },
   "apotheosis:progression/ascent": {
     "criteria": {
+      "uncommon_legs": "2026-06-18 22:45:25 +0200",
+      "uncommon_chest": "2026-06-18 22:45:41 +0200",
       "uncommon_hand": "2026-06-16 14:35:28 +0200"
     },
     "done": false
   },
   "apotheosis:progression/frontier": {
     "criteria": {
-      "common_hand": "2026-06-16 14:35:28 +0200"
+      "common_hand": "2026-06-16 14:35:28 +0200",
+      "common_chest": "2026-06-18 22:45:41 +0200",
+      "common_legs": "2026-06-18 22:45:25 +0200"
     },
     "done": false
   },
@@ -1891,9 +1896,39 @@
     },
     "done": true
   },
+  "apotheosis:gateways/ascent": {
+    "criteria": {
+      "complete_ascent_gate": "2026-06-17 12:35:52 +0200"
+    },
+    "done": true
+  },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2026-06-17 12:37:58 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/feather_block": {
+    "criteria": {
+      "has_item_minecraft_feather_1": "2026-06-17 13:19:06 +0200"
+    },
+    "done": true
+  },
   "supplementaries:recipe/candle_holders/candle_holder_red_dye": {
     "criteria": {
       "has_tag_c_dyes_red_1": "2026-06-17 13:47:59 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_red": {
+    "criteria": {
+      "has_tag_c_dyes_red_2": "2026-06-17 13:47:59 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_red": {
+    "criteria": {
+      "has_tag_c_dyes_red_2": "2026-06-17 13:47:59 +0200"
     },
     "done": true
   },
@@ -1909,39 +1944,97 @@
     },
     "done": true
   },
-  "supplementaries:recipe/awnings/awning_red": {
-    "criteria": {
-      "has_tag_c_dyes_red_2": "2026-06-17 13:47:59 +0200"
-    },
-    "done": true
-  },
-  "constructionstick:iron_stick": {
-    "criteria": {
-      "iron_stick": "2026-06-17 12:37:58 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/buntings/bunting_red": {
-    "criteria": {
-      "has_tag_c_dyes_red_2": "2026-06-17 13:47:59 +0200"
-    },
-    "done": true
-  },
   "supplementaries:recipe/candle_holders/candle_holder_orange_dye": {
     "criteria": {
       "has_tag_c_dyes_orange_1": "2026-06-17 13:48:02 +0200"
     },
     "done": true
   },
-  "supplementaries:recipe/feather_block": {
+  "apotheosis:progression/summit": {
     "criteria": {
-      "has_item_minecraft_feather_1": "2026-06-17 13:19:06 +0200"
+      "rare_chest": "2026-06-18 22:45:41 +0200",
+      "rare_legs": "2026-06-18 22:45:25 +0200",
+      "rare_hand": "2026-06-18 22:46:32 +0200"
+    },
+    "done": false
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_legs": "2026-06-18 22:45:25 +0200",
+      "epic_hand": "2026-06-18 22:46:32 +0200",
+      "epic_chest": "2026-06-18 22:45:41 +0200"
+    },
+    "done": false
+  },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
     },
     "done": true
   },
-  "apotheosis:gateways/ascent": {
+  "apothic_enchanting:max_stats": {
     "criteria": {
-      "complete_ascent_gate": "2026-06-17 12:35:52 +0200"
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:80ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_rectified": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:100ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2026-06-18 22:46:46 +0200"
     },
     "done": true
   },

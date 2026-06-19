@@ -890,7 +890,8 @@
   "apotheosis:progression/frontier": {
     "criteria": {
       "common_hand": "2026-06-10 21:05:46 +0200",
-      "common_chest": "2026-06-09 21:57:28 +0200"
+      "common_chest": "2026-06-09 21:57:28 +0200",
+      "common_feet": "2026-06-18 22:44:21 +0200"
     },
     "done": false
   },
@@ -1422,14 +1423,16 @@
   "apotheosis:progression/summit": {
     "criteria": {
       "kill_wither": "2026-06-17 12:29:01 +0200",
-      "rare_hand": "2026-06-10 21:05:46 +0200"
+      "rare_hand": "2026-06-10 21:05:46 +0200",
+      "rare_feet": "2026-06-18 22:44:21 +0200"
     },
     "done": false
   },
   "apotheosis:progression/ascent": {
     "criteria": {
       "kill_apothic_invader": "2026-06-15 00:21:13 +0200",
-      "uncommon_hand": "2026-06-10 21:05:46 +0200"
+      "uncommon_hand": "2026-06-10 21:05:46 +0200",
+      "uncommon_feet": "2026-06-18 22:44:21 +0200"
     },
     "done": false
   },
@@ -1747,7 +1750,9 @@
   },
   "apotheosis:progression/pinnacle": {
     "criteria": {
-      "kill_ender_dragon": "2026-06-11 15:05:27 +0200"
+      "epic_feet": "2026-06-18 22:44:21 +0200",
+      "kill_ender_dragon": "2026-06-11 15:05:27 +0200",
+      "epic_hand": "2026-06-18 22:44:20 +0200"
     },
     "done": false
   },
@@ -2087,6 +2092,12 @@
   "apothic_enchanting:quanta50": {
     "criteria": {
       "enchanted_item": "2026-06-17 15:35:28 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:manual/resonanz": {
+    "criteria": {
+      "has_item": "2026-06-18 21:07:45 +0200"
     },
     "done": true
   },

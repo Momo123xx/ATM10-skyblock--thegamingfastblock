@@ -2559,27 +2559,27 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "crying_obsidian": "2026-06-17 13:33:52 +0200"
+      "summoned": "2026-06-17 12:28:35 +0200"
     },
     "done": true
   },
-  "ae2:main/crafting_cpu": {
+  "minecraft:adventure/throw_trident": {
     "criteria": {
-      "cu": "2026-06-17 14:52:33 +0200"
+      "shot_trident": "2026-06-17 12:30:29 +0200"
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "minecraft:nether/uneasy_alliance": {
     "criteria": {
-      "killed_dragon": "2026-06-17 12:51:45 +0200"
+      "killed_ghast": "2026-06-17 12:39:40 +0200"
     },
     "done": true
   },
-  "ae2:main/network1": {
+  "apotheosis:gateways/summit": {
     "criteria": {
-      "cable": "2026-06-17 14:46:36 +0200"
+      "complete_summit_gate": "2026-06-17 12:41:53 +0200"
     },
     "done": true
   },
@@ -2595,21 +2595,21 @@
     },
     "done": true
   },
-  "nullscape:root": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "nullscape:shadowlands": "2026-06-17 15:31:54 +0200"
+      "killed_dragon": "2026-06-17 12:51:45 +0200"
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "minecraft:nether/netherite_armor": {
     "criteria": {
-      "summoned": "2026-06-17 12:28:35 +0200"
+      "netherite_armor": "2026-06-17 12:56:21 +0200"
     },
     "done": true
   },
-  "apotheosis:gateways/summit": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "complete_summit_gate": "2026-06-17 12:41:53 +0200"
+      "crying_obsidian": "2026-06-17 13:33:52 +0200"
     },
     "done": true
   },
@@ -2619,21 +2619,147 @@
     },
     "done": true
   },
-  "minecraft:nether/uneasy_alliance": {
+  "ae2:main/network1": {
     "criteria": {
-      "killed_ghast": "2026-06-17 12:39:40 +0200"
+      "cable": "2026-06-17 14:46:36 +0200"
     },
     "done": true
   },
-  "minecraft:adventure/throw_trident": {
+  "ae2:main/crafting_cpu": {
     "criteria": {
-      "shot_trident": "2026-06-17 12:30:29 +0200"
+      "cu": "2026-06-17 14:52:33 +0200"
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "nullscape:root": {
     "criteria": {
-      "netherite_armor": "2026-06-17 12:56:21 +0200"
+      "nullscape:shadowlands": "2026-06-17 15:31:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:oritech/foundry": {
+    "criteria": {
+      "got_foundry": "2026-06-18 19:46:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:oritech/assembler": {
+    "criteria": {
+      "got_assembler": "2026-06-18 19:50:14 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/soap/globe_sepia": {
+    "criteria": {
+      "has_item_supplementaries_globe_sepia_1": "2026-06-18 21:54:44 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2026-06-18 21:54:47 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2026-06-18 22:10:55 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_gray": {
+    "criteria": {
+      "has_tag_c_dyes_gray_2": "2026-06-18 23:31:00 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_gray": {
+    "criteria": {
+      "has_tag_c_dyes_gray_2": "2026-06-18 23:31:00 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_gray_dye": {
+    "criteria": {
+      "has_tag_c_dyes_gray_1": "2026-06-18 23:31:00 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_orange": {
+    "criteria": {
+      "has_tag_c_dyes_orange_2": "2026-06-18 23:56:17 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_orange": {
+    "criteria": {
+      "has_tag_c_dyes_orange_2": "2026-06-18 23:56:17 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_orange_dye": {
+    "criteria": {
+      "has_tag_c_dyes_orange_1": "2026-06-18 23:56:17 +0200"
+    },
+    "done": true
+  },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2026-06-19 00:10:18 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_lime": {
+    "criteria": {
+      "has_tag_c_dyes_lime_2": "2026-06-19 01:20:29 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_lime_dye": {
+    "criteria": {
+      "has_tag_c_dyes_lime_1": "2026-06-19 01:20:29 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_lime": {
+    "criteria": {
+      "has_tag_c_dyes_lime_2": "2026-06-19 01:20:29 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_magenta": {
+    "criteria": {
+      "has_tag_c_dyes_magenta_2": "2026-06-19 01:35:46 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_magenta": {
+    "criteria": {
+      "has_tag_c_dyes_magenta_2": "2026-06-19 01:35:46 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_magenta_dye": {
+    "criteria": {
+      "has_tag_c_dyes_magenta_1": "2026-06-19 01:35:46 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_purple": {
+    "criteria": {
+      "has_tag_c_dyes_purple_2": "2026-06-19 01:40:03 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "has_tag_c_dyes_purple_1": "2026-06-19 01:40:03 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_purple": {
+    "criteria": {
+      "has_tag_c_dyes_purple_2": "2026-06-19 01:40:03 +0200"
     },
     "done": true
   },
