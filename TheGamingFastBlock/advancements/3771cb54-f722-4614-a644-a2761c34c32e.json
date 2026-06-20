@@ -2101,5 +2101,12 @@
     },
     "done": true
   },
+  "mekanism:moving_blocks": {
+    "criteria": {
+      "unbox": "2026-06-19 15:04:19 +0200",
+      "cardboard_box": "2026-06-19 15:04:05 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
