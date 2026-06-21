@@ -145,13 +145,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2026-06-10 22:32:09 +0200",
+      "minecraft:mushroom_fields": "2026-06-20 10:34:55 +0200",
       "minecraft:forest": "2026-06-09 21:03:35 +0200",
       "minecraft:mangrove_swamp": "2026-06-11 02:41:33 +0200",
       "minecraft:deep_dark": "2026-06-11 02:10:36 +0200",
       "minecraft:river": "2026-06-10 22:32:18 +0200",
       "minecraft:swamp": "2026-06-15 22:34:34 +0200",
       "minecraft:windswept_savanna": "2026-06-09 21:10:05 +0200",
-      "minecraft:plains": "2026-06-10 22:55:13 +0200"
+      "minecraft:plains": "2026-06-10 22:55:13 +0200",
+      "minecraft:warm_ocean": "2026-06-20 10:36:04 +0200"
     },
     "done": false
   },
