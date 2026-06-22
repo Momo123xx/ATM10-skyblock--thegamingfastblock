@@ -2783,5 +2783,17 @@
     },
     "done": true
   },
+  "integratedtunnels:importer_exporter/importer_item": {
+    "criteria": {
+      "criteria_0": "2026-06-21 13:56:42 +0200"
+    },
+    "done": true
+  },
+  "integratedtunnels:import_all_items/import_all_items": {
+    "criteria": {
+      "criteria_0": "2026-06-21 14:08:50 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
