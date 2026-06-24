@@ -2855,9 +2855,9 @@
     },
     "done": true
   },
-  "mekanism:item_transport": {
+  "create:fan_processing": {
     "criteria": {
-      "basic_logistical_transporter": "2026-06-23 01:52:18 +0200"
+      "0": "2026-06-22 23:09:07 +0200"
     },
     "done": true
   },
@@ -2867,21 +2867,33 @@
     },
     "done": true
   },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2026-06-22 23:14:29 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:wilden_tribute": {
     "criteria": {
       "has_wilden_tribute": "2026-06-23 00:42:21 +0200"
     },
     "done": true
   },
-  "create:fan_processing": {
+  "mekanism:item_transport": {
     "criteria": {
-      "0": "2026-06-22 23:09:07 +0200"
+      "basic_logistical_transporter": "2026-06-23 01:52:18 +0200"
     },
     "done": true
   },
-  "immersiveengineering:main/main_root": {
+  "ars_nouveau:mark_of_mastery": {
     "criteria": {
-      "has_item": "2026-06-22 23:14:29 +0200"
+      "has_mark_of_mastery": "2026-06-23 17:28:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannonball_2": {
+    "criteria": {
+      "has_tag_c_storage_blocks_lead_1": "2026-06-23 19:06:31 +0200"
     },
     "done": true
   },
