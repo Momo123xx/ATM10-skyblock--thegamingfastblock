@@ -2225,5 +2225,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2026-06-26 19:32:04 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

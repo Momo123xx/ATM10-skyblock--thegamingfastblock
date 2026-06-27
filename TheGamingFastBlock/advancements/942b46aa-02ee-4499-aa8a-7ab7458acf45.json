@@ -2897,5 +2897,17 @@
     },
     "done": true
   },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "0": "2026-06-26 18:16:26 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:copiable_mystery": {
+    "criteria": {
+      "0": "2026-06-26 18:25:32 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
