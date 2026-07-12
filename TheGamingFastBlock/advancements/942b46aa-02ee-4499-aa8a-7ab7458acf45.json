@@ -2909,5 +2909,47 @@
     },
     "done": true
   },
+  "supplementaries:recipe/awnings/awning_brown": {
+    "criteria": {
+      "has_tag_c_dyes_brown_2": "2026-07-11 15:24:52 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "has_tag_c_dyes_brown_1": "2026-07-11 15:24:52 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_brown": {
+    "criteria": {
+      "has_tag_c_dyes_brown_2": "2026-07-11 15:24:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:oritech/centrifuge": {
+    "criteria": {
+      "got_centrifuge": "2026-07-11 22:04:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:oritech/plastic": {
+    "criteria": {
+      "got_plastic": "2026-07-11 22:26:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:oritech/augmenter": {
+    "criteria": {
+      "got_augmenter": "2026-07-12 01:43:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:oritech/fluxite": {
+    "criteria": {
+      "got_fluxite": "2026-07-12 00:57:57 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
