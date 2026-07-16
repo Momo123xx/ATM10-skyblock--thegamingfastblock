@@ -2249,5 +2249,71 @@
     },
     "done": true
   },
+  "ae2:main/network_tool": {
+    "criteria": {
+      "network_tool": "2026-07-15 04:34:41 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_lime": {
+    "criteria": {
+      "has_tag_c_dyes_lime_2": "2026-07-15 18:11:03 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_lime_dye": {
+    "criteria": {
+      "has_tag_c_dyes_lime_1": "2026-07-15 18:11:03 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_lime": {
+    "criteria": {
+      "has_tag_c_dyes_lime_2": "2026-07-15 18:11:03 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_orange": {
+    "criteria": {
+      "has_tag_c_dyes_orange_2": "2026-07-15 18:12:01 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_orange": {
+    "criteria": {
+      "has_tag_c_dyes_orange_2": "2026-07-15 18:12:01 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_orange_dye": {
+    "criteria": {
+      "has_tag_c_dyes_orange_1": "2026-07-15 18:12:01 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/network2": {
+    "criteria": {
+      "cable": "2026-07-15 18:46:10 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_purple": {
+    "criteria": {
+      "has_tag_c_dyes_purple_2": "2026-07-15 21:31:55 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "has_tag_c_dyes_purple_1": "2026-07-15 21:31:55 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_purple": {
+    "criteria": {
+      "has_tag_c_dyes_purple_2": "2026-07-15 21:31:55 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

@@ -151,6 +151,7 @@
       "minecraft:deep_dark": "2026-06-11 02:13:04 +0200",
       "minecraft:river": "2026-06-11 01:08:24 +0200",
       "minecraft:swamp": "2026-06-15 23:00:50 +0200",
+      "minecraft:lush_caves": "2026-07-16 01:11:50 +0200",
       "minecraft:windswept_savanna": "2026-06-09 21:09:16 +0200",
       "minecraft:plains": "2026-06-10 22:55:14 +0200",
       "minecraft:warm_ocean": "2026-06-20 15:30:30 +0200"
@@ -3011,42 +3012,6 @@
     },
     "done": true
   },
-  "supplementaries:recipe/awnings/awning_light_blue": {
-    "criteria": {
-      "has_tag_c_dyes_light_blue_2": "2026-07-15 02:54:02 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/buntings/bunting_light_blue": {
-    "criteria": {
-      "has_tag_c_dyes_light_blue_2": "2026-07-15 02:54:02 +0200"
-    },
-    "done": true
-  },
-  "mekanism:advanced_control_circuit": {
-    "criteria": {
-      "advanced_control_circuit": "2026-07-15 03:01:17 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/candle_holders/candle_holder_light_blue_dye": {
-    "criteria": {
-      "has_tag_c_dyes_light_blue_1": "2026-07-15 02:54:02 +0200"
-    },
-    "done": true
-  },
-  "mekanism:elite_control_circuit": {
-    "criteria": {
-      "elite_control_circuit": "2026-07-15 03:02:43 +0200"
-    },
-    "done": true
-  },
-  "mekanism:reinforced_alloy": {
-    "criteria": {
-      "alloy_reinforced": "2026-07-15 03:02:21 +0200"
-    },
-    "done": true
-  },
   "supplementaries:recipe/buntings/bunting_light_gray": {
     "criteria": {
       "has_tag_c_dyes_light_gray_2": "2026-07-15 02:44:26 +0200"
@@ -3062,6 +3027,42 @@
   "supplementaries:recipe/awnings/awning_light_gray": {
     "criteria": {
       "has_tag_c_dyes_light_gray_2": "2026-07-15 02:44:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_light_blue": {
+    "criteria": {
+      "has_tag_c_dyes_light_blue_2": "2026-07-15 02:54:02 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_light_blue": {
+    "criteria": {
+      "has_tag_c_dyes_light_blue_2": "2026-07-15 02:54:02 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_light_blue_dye": {
+    "criteria": {
+      "has_tag_c_dyes_light_blue_1": "2026-07-15 02:54:02 +0200"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2026-07-15 03:01:17 +0200"
+    },
+    "done": true
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2026-07-15 03:02:21 +0200"
+    },
+    "done": true
+  },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2026-07-15 03:02:43 +0200"
     },
     "done": true
   },
