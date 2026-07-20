@@ -808,6 +808,7 @@
       "minecraft:bogged": "2026-06-16 18:32:27 +0200",
       "minecraft:ghast": "2026-06-17 12:39:40 +0200",
       "minecraft:vindicator": "2026-06-16 23:37:07 +0200",
+      "minecraft:breeze": "2026-07-19 14:09:17 +0200",
       "minecraft:magma_cube": "2026-06-11 14:05:18 +0200",
       "minecraft:spider": "2026-06-10 03:14:42 +0200",
       "minecraft:creeper": "2026-06-09 21:54:08 +0200",
@@ -3070,6 +3071,18 @@
   "mekanismgenerators:wind_generator": {
     "criteria": {
       "wind_generator": "2026-07-16 17:43:04 +0200"
+    },
+    "done": true
+  },
+  "actuallyadditions:make_first_crystal": {
+    "criteria": {
+      "crystal": "2026-07-19 14:40:53 +0200"
+    },
+    "done": true
+  },
+  "actuallyadditions:root": {
+    "criteria": {
+      "right_click": "2026-07-20 01:00:18 +0200"
     },
     "done": true
   },
