@@ -805,6 +805,7 @@
       "minecraft:pillager": "2026-06-11 01:06:33 +0200",
       "minecraft:blaze": "2026-06-11 14:03:36 +0200",
       "minecraft:skeleton": "2026-06-09 22:01:12 +0200",
+      "minecraft:zoglin": "2026-07-21 02:17:19 +0200",
       "minecraft:bogged": "2026-06-16 18:32:27 +0200",
       "minecraft:ghast": "2026-06-17 12:39:40 +0200",
       "minecraft:vindicator": "2026-06-16 23:37:07 +0200",
@@ -816,6 +817,7 @@
       "minecraft:slime": "2026-06-16 15:31:31 +0200",
       "minecraft:evoker": "2026-06-17 13:21:53 +0200",
       "minecraft:phantom": "2026-06-09 22:16:24 +0200",
+      "minecraft:zombified_piglin": "2026-07-21 02:19:35 +0200",
       "minecraft:witch": "2026-06-11 01:08:32 +0200",
       "minecraft:wither_skeleton": "2026-06-10 03:17:47 +0200",
       "minecraft:husk": "2026-06-17 18:35:57 +0200",
@@ -3083,6 +3085,12 @@
   "actuallyadditions:root": {
     "criteria": {
       "right_click": "2026-07-20 01:00:18 +0200"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2026-07-21 01:51:19 +0200"
     },
     "done": true
   },
