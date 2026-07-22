@@ -3094,5 +3094,54 @@
     },
     "done": true
   },
+  "apothic_spawners:modifier": {
+    "criteria": {
+      "modifier": "2026-07-21 04:04:48 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:mindelay": {
+    "criteria": {
+      "modifier": "2026-07-21 04:05:04 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:noai": {
+    "criteria": {
+      "modifier": "2026-07-21 04:05:27 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:nearbyents": {
+    "criteria": {
+      "modifier": "2026-07-21 04:07:02 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:spawncount": {
+    "criteria": {
+      "modifier": "2026-07-21 04:07:18 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:redstone": {
+    "criteria": {
+      "modifier": "2026-07-21 04:13:31 +0200"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2026-07-21 14:50:34 +0200",
+      "sapling": "2026-07-21 14:50:34 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:maxdelay": {
+    "criteria": {
+      "modifier": "2026-07-21 14:04:30 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
