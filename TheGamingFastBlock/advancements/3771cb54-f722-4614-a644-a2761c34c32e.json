@@ -859,27 +859,28 @@
       "minecraft:blaze": "2026-06-10 03:17:41 +0200",
       "minecraft:pillager": "2026-06-11 01:05:32 +0200",
       "minecraft:skeleton": "2026-06-10 03:29:36 +0200",
+      "minecraft:ravager": "2026-06-11 01:07:49 +0200",
+      "minecraft:bogged": "2026-06-15 22:38:43 +0200",
+      "minecraft:vindicator": "2026-06-11 01:08:29 +0200",
+      "minecraft:breeze": "2026-06-17 13:09:39 +0200",
+      "minecraft:magma_cube": "2026-06-11 13:23:30 +0200",
+      "minecraft:spider": "2026-06-09 23:45:47 +0200",
+      "minecraft:creeper": "2026-06-10 03:02:29 +0200",
+      "minecraft:wither": "2026-06-17 12:29:01 +0200",
+      "minecraft:evoker": "2026-06-11 01:09:28 +0200",
+      "minecraft:slime": "2026-08-01 00:58:44 +0200",
       "minecraft:phantom": "2026-06-09 22:32:01 +0200",
       "minecraft:zombified_piglin": "2026-06-10 21:07:39 +0200",
       "minecraft:witch": "2026-06-11 00:53:15 +0200",
       "minecraft:wither_skeleton": "2026-06-10 20:44:36 +0200",
-      "minecraft:ravager": "2026-06-11 01:07:49 +0200",
       "minecraft:husk": "2026-06-17 13:08:58 +0200",
-      "minecraft:bogged": "2026-06-15 22:38:43 +0200",
       "minecraft:ender_dragon": "2026-06-11 15:05:27 +0200",
-      "minecraft:vindicator": "2026-06-11 01:08:29 +0200",
-      "minecraft:breeze": "2026-06-17 13:09:39 +0200",
       "minecraft:enderman": "2026-06-10 03:01:12 +0200",
       "minecraft:stray": "2026-06-15 00:21:13 +0200",
-      "minecraft:magma_cube": "2026-06-11 13:23:30 +0200",
-      "minecraft:spider": "2026-06-09 23:45:47 +0200",
       "minecraft:vex": "2026-06-12 00:13:16 +0200",
       "minecraft:zombie": "2026-06-09 21:55:48 +0200",
-      "minecraft:creeper": "2026-06-10 03:02:29 +0200",
       "minecraft:drowned": "2026-06-12 16:22:22 +0200",
-      "minecraft:wither": "2026-06-17 12:29:01 +0200",
-      "minecraft:zombie_villager": "2026-06-10 23:04:02 +0200",
-      "minecraft:evoker": "2026-06-11 01:09:28 +0200"
+      "minecraft:zombie_villager": "2026-06-10 23:04:02 +0200"
     },
     "done": false
   },
@@ -2312,6 +2313,24 @@
   "supplementaries:recipe/awnings/awning_purple": {
     "criteria": {
       "has_tag_c_dyes_purple_2": "2026-07-15 21:31:55 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2026-08-01 00:25:36 +0200"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2026-08-01 01:53:09 +0200"
+    },
+    "done": true
+  },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2026-08-01 01:43:35 +0200"
     },
     "done": true
   },

@@ -3130,6 +3130,12 @@
     },
     "done": true
   },
+  "apothic_spawners:maxdelay": {
+    "criteria": {
+      "modifier": "2026-07-21 14:04:30 +0200"
+    },
+    "done": true
+  },
   "silentgear:nether_plants": {
     "criteria": {
       "banana": "2026-07-21 14:50:34 +0200",
@@ -3137,9 +3143,27 @@
     },
     "done": true
   },
-  "apothic_spawners:maxdelay": {
+  "ae2:main/facade": {
     "criteria": {
-      "modifier": "2026-07-21 14:04:30 +0200"
+      "facade": "2026-08-01 00:26:19 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/qnb": {
+    "criteria": {
+      "certus": "2026-08-01 02:07:49 +0200"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2026-07-31 21:59:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:oritech/steam_engine": {
+    "criteria": {
+      "got_steam_engine": "2026-07-31 23:09:36 +0200"
     },
     "done": true
   },
