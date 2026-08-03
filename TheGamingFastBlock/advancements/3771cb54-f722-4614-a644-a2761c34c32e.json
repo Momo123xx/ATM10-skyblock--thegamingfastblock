@@ -2340,5 +2340,17 @@
     },
     "done": true
   },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2026-08-02 21:57:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2026-08-02 23:33:02 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

@@ -1,9 +1,46 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
-	last_login_time: 1785577778597L
+	last_login_time: 1785667823945L
 	chunks: {
-		"minecraft:overworld": [{ x: 257, z: -3, time: 1781634911924L, force_loaded: 1781634914277L }]
+		"minecraft:overworld": [
+			{ x: 261, z: -6, time: 1785682314432L }
+			{ x: 262, z: -7, time: 1785682317926L, force_loaded: 1785683505500L }
+			{ x: 258, z: -8, time: 1785682302882L, force_loaded: 1785683504829L }
+			{ x: 261, z: -7, time: 1785682315773L, force_loaded: 1785683463737L }
+			{ x: 258, z: -7, time: 1785682318381L, force_loaded: 1785683504446L }
+			{ x: 258, z: -4, time: 1785682303944L, force_loaded: 1785683463738L }
+			{ x: 259, z: -6, time: 1785682315021L, force_loaded: 1785683463738L }
+			{ x: 257, z: -7, time: 1785682319136L, force_loaded: 1785683464789L }
+			{ x: 260, z: -6, time: 1785682314690L, force_loaded: 1785683463738L }
+			{ x: 258, z: -6, time: 1785683503792L }
+			{ x: 257, z: -6, time: 1785682318928L }
+			{ x: 258, z: -5, time: 1785682311469L }
+			{ x: 260, z: -7, time: 1785683492203L }
+			{ x: 258, z: -3, time: 1785682307776L, force_loaded: 1785683464789L }
+			{ x: 259, z: -7, time: 1785682315264L }
+			{ x: 261, z: -8, time: 1785682316721L, force_loaded: 1785683463737L }
+			{ x: 261, z: -5, time: 1785683493689L }
+			{ x: 259, z: -4, time: 1785682310474L }
+			{ x: 257, z: -5, time: 1785682311226L }
+			{ x: 260, z: -5, time: 1785682312817L, force_loaded: 1785683494361L }
+			{ x: 257, z: -3, time: 1785682307079L, force_loaded: 1785683463738L }
+			{ x: 259, z: -3, time: 1785683496423L }
+			{ x: 262, z: -8, time: 1785682316329L, force_loaded: 1785683463736L }
+			{ x: 260, z: -3, time: 1785683499196L }
+			{ x: 259, z: -5, time: 1785682311873L, force_loaded: 1785683463738L }
+			{ x: 257, z: -4, time: 1785682310838L, force_loaded: 1785683463738L }
+			{ x: 261, z: -3, time: 1785682308679L, force_loaded: 1785683457966L }
+			{ x: 262, z: -6, time: 1785682314126L }
+			{ x: 261, z: -4, time: 1785682309593L, force_loaded: 1785683459644L }
+			{ x: 262, z: -5, time: 1785682313694L }
+			{ x: 260, z: -4, time: 1785683499452L }
+			{ x: 262, z: -4, time: 1785682309322L, force_loaded: 1785683453461L }
+			{ x: 259, z: -8, time: 1785682303227L }
+			{ x: 262, z: -3, time: 1785682308954L, force_loaded: 1785683457967L }
+			{ x: 257, z: -8, time: 1785683447039L, force_loaded: 1785683464789L }
+			{ x: 260, z: -8, time: 1785682317327L }
+		]
 	}
 	member_data: {
 		2121cc6d-1166-4e58-afab-5a025f67fc71: {
