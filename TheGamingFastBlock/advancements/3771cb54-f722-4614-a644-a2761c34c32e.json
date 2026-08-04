@@ -2352,5 +2352,17 @@
     },
     "done": true
   },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2026-08-03 08:20:57 +0200"
+    },
+    "done": true
+  },
+  "mekanism:injection_chamber": {
+    "criteria": {
+      "chemical_injection_chamber": "2026-08-03 08:21:20 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
