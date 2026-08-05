@@ -859,6 +859,7 @@
       "minecraft:blaze": "2026-06-10 03:17:41 +0200",
       "minecraft:pillager": "2026-06-11 01:05:32 +0200",
       "minecraft:skeleton": "2026-06-10 03:29:36 +0200",
+      "minecraft:zoglin": "2026-08-05 01:05:45 +0200",
       "minecraft:ravager": "2026-06-11 01:07:49 +0200",
       "minecraft:bogged": "2026-06-15 22:38:43 +0200",
       "minecraft:vindicator": "2026-06-11 01:08:29 +0200",
@@ -1190,6 +1191,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2026-06-10 03:17:18 +0200",
+      "minecraft:soul_sand_valley": "2026-08-05 01:11:33 +0200",
       "minecraft:basalt_deltas": "2026-06-10 03:17:43 +0200"
     },
     "done": false

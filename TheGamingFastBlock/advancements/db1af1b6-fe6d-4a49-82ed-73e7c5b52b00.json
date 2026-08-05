@@ -145,11 +145,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2026-07-31 23:03:09 +0200",
+      "minecraft:mushroom_fields": "2026-08-04 21:46:36 +0200",
       "minecraft:forest": "2026-07-31 22:57:18 +0200",
+      "minecraft:mangrove_swamp": "2026-08-05 02:37:06 +0200",
       "minecraft:river": "2026-07-31 23:03:26 +0200",
+      "minecraft:swamp": "2026-08-05 00:11:55 +0200",
       "minecraft:lush_caves": "2026-08-01 00:35:10 +0200",
       "minecraft:windswept_savanna": "2026-07-31 22:58:08 +0200",
-      "minecraft:plains": "2026-07-31 23:03:53 +0200"
+      "minecraft:plains": "2026-07-31 23:03:53 +0200",
+      "minecraft:warm_ocean": "2026-08-04 21:49:31 +0200"
     },
     "done": false
   },
@@ -991,15 +995,33 @@
     },
     "done": true
   },
-  "integrateddynamics:root": {
+  "supplementaries:recipe/bellows": {
     "criteria": {
-      "criteria_0": "2026-08-03 23:48:56 +0200"
+      "has_item_minecraft_leather_2": "2026-08-03 23:13:00 +0200"
     },
     "done": true
   },
-  "supplementaries:recipe/awnings/awning_brown": {
+  "supplementaries:recipe/candy": {
     "criteria": {
-      "has_tag_c_dyes_brown_2": "2026-08-03 23:20:06 +0200"
+      "has_item_minecraft_sugar_1": "2026-08-03 23:13:40 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/pancake_fd": {
+    "criteria": {
+      "has_item_minecraft_sugar_1": "2026-08-03 23:13:40 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sugar_cube": {
+    "criteria": {
+      "has_item_minecraft_sugar_1": "2026-08-03 23:13:40 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/end_stone_lamp": {
+    "criteria": {
+      "has_item_minecraft_end_stone_1": "2026-08-03 23:13:43 +0200"
     },
     "done": true
   },
@@ -1012,42 +1034,6 @@
   "supplementaries:recipe/candle_holders/candle_holder_red_dye": {
     "criteria": {
       "has_tag_c_dyes_red_1": "2026-08-03 23:20:05 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/buntings/bunting_black": {
-    "criteria": {
-      "has_tag_c_dyes_black_2": "2026-08-03 23:20:06 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/bellows": {
-    "criteria": {
-      "has_item_minecraft_leather_2": "2026-08-03 23:13:00 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
-    "criteria": {
-      "has_tag_c_dyes_brown_1": "2026-08-03 23:20:06 +0200"
-    },
-    "done": true
-  },
-  "integratedterminals:storage_terminal/gui_storage_terminal": {
-    "criteria": {
-      "criteria_0": "2026-08-04 02:32:21 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/buntings/bunting_blue": {
-    "criteria": {
-      "has_tag_c_dyes_blue_2": "2026-08-03 23:20:07 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/end_stone_lamp": {
-    "criteria": {
-      "has_item_minecraft_end_stone_1": "2026-08-03 23:13:43 +0200"
     },
     "done": true
   },
@@ -1069,12 +1055,6 @@
     },
     "done": true
   },
-  "supplementaries:recipe/awnings/awning_black": {
-    "criteria": {
-      "has_tag_c_dyes_black_2": "2026-08-03 23:20:06 +0200"
-    },
-    "done": true
-  },
   "supplementaries:recipe/buntings/bunting_red": {
     "criteria": {
       "has_tag_c_dyes_red_2": "2026-08-03 23:20:05 +0200"
@@ -1087,69 +1067,9 @@
     },
     "done": true
   },
-  "supplementaries:recipe/candy": {
-    "criteria": {
-      "has_item_minecraft_sugar_1": "2026-08-03 23:13:40 +0200"
-    },
-    "done": true
-  },
-  "create:rose_quartz": {
-    "criteria": {
-      "0": "2026-08-04 02:11:11 +0200"
-    },
-    "done": true
-  },
   "supplementaries:recipe/buntings/bunting_yellow": {
     "criteria": {
       "has_tag_c_dyes_yellow_2": "2026-08-03 23:20:05 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/gravel_bricks": {
-    "criteria": {
-      "has_item_minecraft_gravel_1": "2026-08-03 23:41:07 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/candle_holders/candle_holder_blue_dye": {
-    "criteria": {
-      "has_tag_c_dyes_blue_1": "2026-08-03 23:20:07 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/integration/pancake_fd": {
-    "criteria": {
-      "has_item_minecraft_sugar_1": "2026-08-03 23:13:40 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/sugar_cube": {
-    "criteria": {
-      "has_item_minecraft_sugar_1": "2026-08-03 23:13:40 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
-    "criteria": {
-      "has_tag_c_dyes_black_1": "2026-08-03 23:20:06 +0200"
-    },
-    "done": true
-  },
-  "create:precision_mechanism": {
-    "criteria": {
-      "0": "2026-08-04 02:18:40 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/daub": {
-    "criteria": {
-      "has_item_minecraft_clay_ball_1": "2026-08-04 00:03:25 +0200"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/netherite_trapdoor": {
-    "criteria": {
-      "has_item_minecraft_netherite_scrap_2": "2026-08-03 23:27:37 +0200"
     },
     "done": true
   },
@@ -1159,21 +1079,33 @@
     },
     "done": true
   },
-  "supplementaries:recipe/netherite_door": {
+  "supplementaries:recipe/awnings/awning_brown": {
     "criteria": {
-      "has_item_minecraft_netherite_scrap_2": "2026-08-03 23:27:37 +0200"
+      "has_tag_c_dyes_brown_2": "2026-08-03 23:20:06 +0200"
     },
     "done": true
   },
-  "supplementaries:recipe/awnings/awning_blue": {
+  "supplementaries:recipe/buntings/bunting_black": {
     "criteria": {
-      "has_tag_c_dyes_blue_2": "2026-08-03 23:20:07 +0200"
+      "has_tag_c_dyes_black_2": "2026-08-03 23:20:06 +0200"
     },
     "done": true
   },
-  "actuallyadditions:craft_reconstructor": {
+  "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
     "criteria": {
-      "atomic_reconstructor": "2026-08-04 00:17:33 +0200"
+      "has_tag_c_dyes_brown_1": "2026-08-03 23:20:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-08-03 23:20:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "has_tag_c_dyes_black_1": "2026-08-03 23:20:06 +0200"
     },
     "done": true
   },
@@ -1183,12 +1115,210 @@
     },
     "done": true
   },
+  "supplementaries:recipe/buntings/bunting_blue": {
+    "criteria": {
+      "has_tag_c_dyes_blue_2": "2026-08-03 23:20:07 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_blue_dye": {
+    "criteria": {
+      "has_tag_c_dyes_blue_1": "2026-08-03 23:20:07 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_blue": {
+    "criteria": {
+      "has_tag_c_dyes_blue_2": "2026-08-03 23:20:07 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/netherite_trapdoor": {
+    "criteria": {
+      "has_item_minecraft_netherite_scrap_2": "2026-08-03 23:27:37 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/netherite_door": {
+    "criteria": {
+      "has_item_minecraft_netherite_scrap_2": "2026-08-03 23:27:37 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gravel_bricks": {
+    "criteria": {
+      "has_item_minecraft_gravel_1": "2026-08-03 23:41:07 +0200"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2026-08-03 23:48:56 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/daub": {
+    "criteria": {
+      "has_item_minecraft_clay_ball_1": "2026-08-04 00:03:25 +0200"
+    },
+    "done": true
+  },
+  "actuallyadditions:craft_reconstructor": {
+    "criteria": {
+      "atomic_reconstructor": "2026-08-04 00:17:33 +0200"
+    },
+    "done": true
+  },
   "silentgear:overworld_plants": {
     "criteria": {
       "flax_seeds": "2026-08-04 00:43:00 +0200",
       "flax_fibers": "2026-08-04 00:43:00 +0200"
     },
     "done": false
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2026-08-04 02:11:11 +0200"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2026-08-04 02:18:40 +0200"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/gui_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2026-08-04 02:32:21 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2026-08-05 02:59:15 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sconce_soul": {
+    "criteria": {
+      "has_tag_c_nuggets_iron_2": "2026-08-04 22:54:53 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_cpu": {
+    "criteria": {
+      "cu": "2026-08-04 22:28:02 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/network1": {
+    "criteria": {
+      "cable": "2026-08-04 20:28:01 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-08-04 22:14:46 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_gray": {
+    "criteria": {
+      "has_tag_c_dyes_gray_2": "2026-08-04 21:52:30 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/ioport": {
+    "criteria": {
+      "certus": "2026-08-05 01:07:59 +0200"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2026-08-04 20:11:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/blackstone_lamp": {
+    "criteria": {
+      "has_item_minecraft_blackstone_1": "2026-08-05 01:21:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-08-05 02:59:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:phantom": "2026-08-05 02:59:15 +0200"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/buntings/bunting_gray": {
+    "criteria": {
+      "has_tag_c_dyes_gray_2": "2026-08-04 21:52:30 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2026-08-04 23:32:05 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2026-08-05 01:42:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2026-08-05 03:41:39 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/p2p": {
+    "criteria": {
+      "certus": "2026-08-05 02:25:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:phantom": "2026-08-05 02:59:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-08-05 01:30:14 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_gray_dye": {
+    "criteria": {
+      "has_tag_c_dyes_gray_1": "2026-08-04 21:52:30 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/pattern_encoding_terminal": {
+    "criteria": {
+      "certus": "2026-08-04 22:37:17 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/slidy_block": {
+    "criteria": {
+      "has_tag_c_nuggets_iron_1": "2026-08-04 22:54:53 +0200"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
