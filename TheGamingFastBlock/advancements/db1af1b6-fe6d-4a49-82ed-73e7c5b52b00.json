@@ -148,6 +148,7 @@
       "minecraft:mushroom_fields": "2026-08-04 21:46:36 +0200",
       "minecraft:forest": "2026-07-31 22:57:18 +0200",
       "minecraft:mangrove_swamp": "2026-08-05 02:37:06 +0200",
+      "minecraft:deep_dark": "2026-08-06 18:12:01 +0200",
       "minecraft:river": "2026-07-31 23:03:26 +0200",
       "minecraft:swamp": "2026-08-05 00:11:55 +0200",
       "minecraft:lush_caves": "2026-08-01 00:35:10 +0200",
@@ -1524,6 +1525,18 @@
     },
     "done": true
   },
+  "supplementaries:recipe/deepslate_lamp": {
+    "criteria": {
+      "has_item_minecraft_deepslate_1": "2026-08-06 01:40:02 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/boat_jar": {
+    "criteria": {
+      "has_tag_minecraft_boats_2": "2026-08-06 02:37:53 +0200"
+    },
+    "done": true
+  },
   "mekanism:fluid_transport": {
     "criteria": {
       "basic_mechanical_pipe": "2026-08-06 03:16:12 +0200"
@@ -1536,15 +1549,231 @@
     },
     "done": true
   },
-  "supplementaries:recipe/boat_jar": {
+  "exdeorum:core/barrel": {
     "criteria": {
-      "has_tag_minecraft_boats_2": "2026-08-06 02:37:53 +0200"
+      "has_barrel": "2026-08-06 18:33:31 +0200"
     },
     "done": true
   },
-  "supplementaries:recipe/deepslate_lamp": {
+  "supplementaries:recipe/lumisene_bottle": {
     "criteria": {
-      "has_item_minecraft_deepslate_1": "2026-08-06 01:40:02 +0200"
+      "has_item_minecraft_glass_bottle_2": "2026-08-06 18:52:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2026-08-06 18:52:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-08-06 23:39:16 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2026-08-07 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2026-08-06 20:44:16 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_stats": {
+    "criteria": {
+      "enchanted_item": "2026-08-07 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2026-08-06 20:46:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-08-07 01:05:48 +0200"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-08-07 01:05:48 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2026-08-07 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2026-08-06 20:37:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-08-07 01:05:48 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_rectified": {
+    "criteria": {
+      "enchanted_item": "2026-08-07 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2026-08-07 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannon_boat_bamboo": {
+    "criteria": {
+      "has_item_supplementaries_cannon_1": "2026-08-06 22:55:57 +0200"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2026-08-06 20:27:06 +0200"
+    },
+    "done": true
+  },
+  "actuallyadditions:make_first_crystal": {
+    "criteria": {
+      "crystal": "2026-08-06 22:07:36 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2026-08-07 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "create:drain": {
+    "criteria": {
+      "0": "2026-08-06 20:46:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-08-07 01:09:47 +0200"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2026-08-06 20:38:55 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2026-08-06 20:46:11 +0200"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2026-08-06 20:03:33 +0200"
+    },
+    "done": true
+  },
+  "actuallyadditions:craft_double_crusher": {
+    "criteria": {
+      "crystal": "2026-08-06 22:08:30 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2026-08-07 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2026-08-07 01:05:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2026-08-07 00:18:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-08-07 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannon_boat_oak": {
+    "criteria": {
+      "has_item_supplementaries_cannon_1": "2026-08-06 22:55:57 +0200"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2026-08-06 20:08:35 +0200"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2026-08-06 20:46:11 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2026-08-07 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2026-08-06 20:59:05 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2026-08-07 00:15:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-08-06 22:55:56 +0200"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2026-08-06 20:18:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-08-07 01:05:48 +0200"
     },
     "done": true
   },
