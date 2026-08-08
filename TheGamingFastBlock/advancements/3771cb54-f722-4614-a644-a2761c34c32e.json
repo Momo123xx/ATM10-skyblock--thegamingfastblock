@@ -2366,15 +2366,63 @@
     },
     "done": true
   },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2026-08-07 01:42:10 +0200"
+    },
+    "done": true
+  },
   "ae2:main/recursive": {
     "criteria": {
       "recursive": "2026-08-07 02:01:38 +0200"
     },
     "done": true
   },
-  "mekanismtools:alternate_tools": {
+  "supplementaries:recipe/awnings/awning_cyan": {
     "criteria": {
-      "tools": "2026-08-07 01:42:10 +0200"
+      "has_tag_c_dyes_cyan_2": "2026-08-07 17:52:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_cyan_dye": {
+    "criteria": {
+      "has_tag_c_dyes_cyan_1": "2026-08-07 17:52:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_cyan": {
+    "criteria": {
+      "has_tag_c_dyes_cyan_2": "2026-08-07 17:52:06 +0200"
+    },
+    "done": true
+  },
+  "exmachinis:gold_upgrade": {
+    "criteria": {
+      "has_gold_upgrade": "2026-08-07 17:52:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:oritech/pulverizer": {
+    "criteria": {
+      "got_pulverizer": "2026-08-07 20:14:20 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/fodder": {
+    "criteria": {
+      "has_item_minecraft_hay_block_1": "2026-08-07 20:16:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:oritech/centrifuge": {
+    "criteria": {
+      "got_centrifuge": "2026-08-07 20:21:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:oritech/foundry": {
+    "criteria": {
+      "got_foundry": "2026-08-07 20:23:53 +0200"
     },
     "done": true
   },
