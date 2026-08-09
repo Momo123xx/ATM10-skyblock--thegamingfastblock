@@ -1308,7 +1308,9 @@
     "criteria": {
       "minecraft:skeleton": "2026-08-07 23:15:04 +0200",
       "minecraft:phantom": "2026-08-05 02:59:15 +0200",
-      "minecraft:wither": "2026-08-07 21:14:18 +0200"
+      "minecraft:enderman": "2026-08-09 01:42:26 +0200",
+      "minecraft:wither": "2026-08-07 21:14:18 +0200",
+      "minecraft:ender_dragon": "2026-08-09 01:42:42 +0200"
     },
     "done": false
   },
@@ -1813,7 +1815,8 @@
   },
   "apotheosis:progression/pinnacle": {
     "criteria": {
-      "epic_hand": "2026-08-07 21:13:41 +0200"
+      "epic_hand": "2026-08-07 21:13:41 +0200",
+      "kill_ender_dragon": "2026-08-09 01:42:42 +0200"
     },
     "done": false
   },
@@ -1917,6 +1920,30 @@
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "has_item": "2026-08-08 03:42:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/fodder": {
+    "criteria": {
+      "has_item_minecraft_hay_block_1": "2026-08-08 18:43:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2026-08-09 01:42:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2026-08-09 01:43:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2026-08-09 01:35:46 +0200"
     },
     "done": true
   },
