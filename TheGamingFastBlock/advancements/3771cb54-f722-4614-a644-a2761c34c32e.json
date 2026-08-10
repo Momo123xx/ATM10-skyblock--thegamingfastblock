@@ -2426,5 +2426,17 @@
     },
     "done": true
   },
+  "minecraft:oritech/plastic": {
+    "criteria": {
+      "got_plastic": "2026-08-09 17:07:54 +0200"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2026-08-09 18:23:22 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
