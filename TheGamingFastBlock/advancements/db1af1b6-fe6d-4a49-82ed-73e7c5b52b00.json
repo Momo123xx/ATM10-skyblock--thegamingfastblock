@@ -1974,15 +1974,27 @@
     },
     "done": true
   },
-  "supplementaries:recipe/way_sign_oak/minecraft/mangrove": {
-    "criteria": {
-      "has_item_minecraft_oak_sign_1": "2026-08-09 23:06:37 +0200"
-    },
-    "done": true
-  },
   "create:encased_fan": {
     "criteria": {
       "0": "2026-08-09 21:09:04 +0200"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2026-08-09 21:09:33 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "soul_campfire": "2026-08-09 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/mangrove": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-09 23:06:37 +0200"
     },
     "done": true
   },
@@ -2016,21 +2028,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "soul_campfire": "2026-08-09 21:29:06 +0200"
-    },
-    "done": true
-  },
   "supplementaries:recipe/way_sign_oak/minecraft/warped": {
     "criteria": {
       "has_item_minecraft_oak_sign_1": "2026-08-09 23:06:37 +0200"
-    },
-    "done": true
-  },
-  "create:fan_processing": {
-    "criteria": {
-      "0": "2026-08-09 21:09:33 +0200"
     },
     "done": true
   },
@@ -2055,6 +2055,12 @@
   "supplementaries:recipe/way_sign_oak/minecraft/cherry": {
     "criteria": {
       "has_item_minecraft_oak_sign_1": "2026-08-09 23:06:37 +0200"
+    },
+    "done": true
+  },
+  "create:display_link": {
+    "criteria": {
+      "0": "2026-08-11 00:07:08 +0200"
     },
     "done": true
   },

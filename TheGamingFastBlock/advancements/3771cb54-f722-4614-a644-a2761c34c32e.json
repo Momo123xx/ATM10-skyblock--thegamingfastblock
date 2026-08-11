@@ -876,8 +876,10 @@
       "minecraft:wither_skeleton": "2026-06-10 20:44:36 +0200",
       "minecraft:husk": "2026-06-17 13:08:58 +0200",
       "minecraft:ender_dragon": "2026-06-11 15:05:27 +0200",
+      "minecraft:shulker": "2026-08-10 14:11:06 +0200",
       "minecraft:enderman": "2026-06-10 03:01:12 +0200",
       "minecraft:stray": "2026-06-15 00:21:13 +0200",
+      "minecraft:endermite": "2026-08-10 16:03:53 +0200",
       "minecraft:vex": "2026-06-12 00:13:16 +0200",
       "minecraft:zombie": "2026-06-09 21:55:48 +0200",
       "minecraft:drowned": "2026-06-12 16:22:22 +0200",
@@ -2435,6 +2437,120 @@
   "mekanism:steel_casing": {
     "criteria": {
       "steel_casing": "2026-08-09 18:23:22 +0200"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2026-08-10 14:24:46 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:noai": {
+    "criteria": {
+      "modifier": "2026-08-10 17:47:54 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:modifier": {
+    "criteria": {
+      "modifier": "2026-08-10 17:47:54 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:mindelay": {
+    "criteria": {
+      "modifier": "2026-08-10 17:47:54 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:nearbyents": {
+    "criteria": {
+      "modifier": "2026-08-10 17:47:54 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:maxdelay": {
+    "criteria": {
+      "modifier": "2026-08-10 17:47:54 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:spawncount": {
+    "criteria": {
+      "modifier": "2026-08-10 17:47:54 +0200"
+    },
+    "done": true
+  },
+  "apothic_spawners:redstone": {
+    "criteria": {
+      "modifier": "2026-08-10 17:47:54 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/mangrove": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/acacia": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/dark_oak": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/crimson": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/birch": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/spruce": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/warped": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/bamboo": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/jungle": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/cherry": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2026-08-10 21:59:06 +0200"
     },
     "done": true
   },
