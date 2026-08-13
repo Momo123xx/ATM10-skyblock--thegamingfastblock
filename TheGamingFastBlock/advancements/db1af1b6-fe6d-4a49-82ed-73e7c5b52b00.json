@@ -2263,27 +2263,9 @@
     },
     "done": true
   },
-  "apothic_enchanting:enchanter": {
-    "criteria": {
-      "enchanting_table": "2026-08-12 23:59:30 +0200"
-    },
-    "done": true
-  },
   "ars_nouveau:ritual_brazier": {
     "criteria": {
       "has_ritual_brazier": "2026-08-12 22:46:00 +0200"
-    },
-    "done": true
-  },
-  "apothic_enchanting:upgrade_seashelf": {
-    "criteria": {
-      "heart": "2026-08-12 23:59:13 +0200"
-    },
-    "done": true
-  },
-  "ars_nouveau:archmage_spell_book": {
-    "criteria": {
-      "has_archmage_spell_book": "2026-08-12 23:50:04 +0200"
     },
     "done": true
   },
@@ -2296,6 +2278,24 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2026-08-12 23:20:00 +0200"
+    },
+    "done": true
+  },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2026-08-12 23:50:04 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_seashelf": {
+    "criteria": {
+      "heart": "2026-08-12 23:59:13 +0200"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2026-08-12 23:59:30 +0200"
     },
     "done": true
   },
